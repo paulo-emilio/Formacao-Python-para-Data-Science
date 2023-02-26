@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_para_data_science/aula05_plotando_com_matplotlib/02_criando_um_grafico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_para_data_science/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +39,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/paulo/OneDrive/Documentos/GitHub/Formacao-Python-para-Data-Science/python_para_data_science_linguagem_e_numpy",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy" />
+      <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.02_criando_um_grafico">
     <configuration name="02_criando_um_grafico" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
