@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/Python_Data_Science_Numpy.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula01_ambiente_do_cientista_de_dados/05_arrays_em_numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
