@@ -7,10 +7,24 @@ dados = [
      'Bancos de couro', 'Central multimídia', 'Vidros elétricos']
 ]
 
-for lista in dados:
+'''for lista in dados:
     print(lista)
-print('-*'*80)
+print('-*'*80)'''
 
+'''for lista in dados:
+    for item in lista:
+        print(item)'''
+
+acessorios = []
 for lista in dados:
     for item in lista:
-        print(item)
+        acessorios.append(item)
+print(f'acessorios: {acessorios}')
+
+# possuem alguns acessórios em mais de uma lista, portanto foram duplicados
+acessorios = list(set(acessorios))
+print(f'acessorios set(): {acessorios}')
+
+# melhor forma de deixar o código
+acessorios2 = [item for lista in dados for item in lista]
+print(f'acessorios2: {acessorios2}')

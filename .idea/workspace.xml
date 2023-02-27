@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula03_trabalhando_com_listas/09_metodos_de_listas" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula04_condicionais_e_lacos/05_loops_aninhados.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula04_condicionais_e_lacos/05_loops_aninhados.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula04_condicionais_e_lacos/05_loops_aninhados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
