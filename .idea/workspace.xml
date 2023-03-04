@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="" />
+    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/04_operacoes_com_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/04_operacoes_com_array_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/06_selecoes_com_arrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/06_z_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/paulo/OneDrive/Documentos/GitHub/Formacao-Python-para-Data-Science/python_para_data_science_linguagem_e_numpy/Python_Data_Science/aula01_ambiente_do_cientista_de_dados",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/paulo/OneDrive/Documentos/GitHub/Formacao-Python-para-Data-Science/python_para_data_science_linguagem_e_numpy/Python_Data_Science/aula01_ambiente_do_cientista_de_dados&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy\Python_Data_Science\aula01_ambiente_do_cientista_de_dados" />
@@ -49,28 +55,7 @@
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_arrays_numpy_b">
-    <configuration name="02_arrays_numpy_a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Formacao-Python-para-Data-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy\aula05_conhecendo_o_numpy\02_arrays_numpy_a.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.06_z_ex">
     <configuration name="02_arrays_numpy_b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_exemplo_variaveis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_operacoes_com_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula02_caracteristicas_do_pyton" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula02_caracteristicas_do_pyton/04_exemplo_variaveis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/04_operacoes_com_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_loops_aninhados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_operacoes_com_array_b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula04_condicionais_e_lacos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula04_condicionais_e_lacos/05_loops_aninhados.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/04_operacoes_com_array_b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_selecoes_com_arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +127,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula03_trabalhando_com_listas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula03_trabalhando_com_listas/cf.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/06_selecoes_com_arrays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_z_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Formacao-Python-para-Data-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/06_z_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06_z_ex" />
+        <item itemvalue="Python.06_selecoes_com_arrays" />
+        <item itemvalue="Python.04_operacoes_com_array_b" />
+        <item itemvalue="Python.04_operacoes_com_array" />
         <item itemvalue="Python.02_arrays_numpy_b" />
-        <item itemvalue="Python.02_arrays_numpy_a" />
-        <item itemvalue="Python.05_loops_aninhados" />
-        <item itemvalue="Python.cf" />
-        <item itemvalue="Python.04_exemplo_variaveis" />
       </list>
     </recent_temporary>
   </component>
