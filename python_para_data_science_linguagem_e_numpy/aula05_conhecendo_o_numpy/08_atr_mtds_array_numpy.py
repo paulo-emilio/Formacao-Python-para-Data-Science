@@ -32,8 +32,10 @@ print(f'.tolist(): {dados.tolist()}')
 print(f'.reshape():\n{dados.reshape((5, 2), order="C")}')  # existem formas diferentes de indexar, ex: order='F'
 
 # ndarray.resize -- altera a forma e o tamanho do array
-print(f'.resize():')
-dados_new = dados.copy()
-print(dados_new)
-dados_new = dados_new.re
+'''print(f'.resize():')
+new_dados = dados.copy()
+new_dados = new_dados.resize((3, 5), refcheck=False)'''
+# add valores:
+'''new_dados[2] = new_dados[0] / 2023 - new_dados[1]'''
 
+# ESTÁ ACONTECENDO ALGUM ERRO COM A CÓPIA DE ARRAY, VOU DESCOBRIR O QUE É
