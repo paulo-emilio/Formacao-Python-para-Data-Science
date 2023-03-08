@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="" />
+    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula01_apresentacao_do_curso/05_trabalhando_com_dados.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/paulo/OneDrive/Documentos/GitHub/Formacao-Python-para-Data-Science/python_para_data_science_funcoes_pacotes_pandas&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/paulo/OneDrive/Documentos/GitHub/Formacao-Python-para-Data-Science/python_para_data_science_funcoes_pacotes_pandas",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_funcoes_pacotes_pandas" />
@@ -47,11 +50,13 @@
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_funcoes_pacotes_pandas" />
+      <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_funcoes_pacotes_pandas\aula01_apresentacao_do_curso" />
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11_estatisticas_numpy">
-    <configuration name="06_selecoes_com_arrays" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05_trabalhando_com_dados">
+    <configuration name="05_trabalhando_com_dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula01_apresentacao_do_curso" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_linguagem_e_numpy/aula05_conhecendo_o_numpy/06_selecoes_com_arrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula01_apresentacao_do_curso/05_trabalhando_com_dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_trabalhando_com_dados" />
         <item itemvalue="Python.11_estatisticas_numpy" />
         <item itemvalue="Python.08_atr_mtds_array_numpy" />
         <item itemvalue="Python.08" />
         <item itemvalue="Python.06_z_exercicios" />
-        <item itemvalue="Python.06_selecoes_com_arrays" />
       </list>
     </recent_temporary>
   </component>
