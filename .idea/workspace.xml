@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula02_tuplas/06_iterando_tuplas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula02_tuplas/06_zip().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula03_dicionarios/02_criando_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula03_dicionarios/05_operacoes_dicionarios.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula03_dicionarios/07_metodos_de_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula03_dicionarios/09_iterando_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula04_funcoes_pacotes/02_built-in_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +54,8 @@
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aa">
-    <configuration name="02_criando_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02_built-in_functions">
+    <configuration name="02_built-in_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula03_dicionarios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula04_funcoes_pacotes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula03_dicionarios/02_criando_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula04_funcoes_pacotes/02_built-in_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_built-in_functions" />
         <item itemvalue="Python.aa" />
         <item itemvalue="Python.09_iterando_dict" />
         <item itemvalue="Python.07_metodos_de_dict" />
         <item itemvalue="Python.05_operacoes_dicionarios" />
-        <item itemvalue="Python.02_criando_dict" />
       </list>
     </recent_temporary>
   </component>
