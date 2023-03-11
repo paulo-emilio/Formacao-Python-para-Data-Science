@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="" />
+    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_pandas_tratando_e_analisando_dados/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,16 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/paulo/OneDrive/Documentos/GitHub/Formacao-Python-para-Data-Science/python_para_data_science_funcoes_pacotes_pandas&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/paulo/OneDrive/Documentos/GitHub/Formacao-Python-para-Data-Science/python_pandas_tratando_e_analisando_dados",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_pandas_tratando_e_analisando_dados" />
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_funcoes_pacotes_pandas" />
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy\Python_Data_Science\aula01_ambiente_do_cientista_de_dados" />
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy" />
