@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/05_selecoes_com_dataframes_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/05_selecoes_com_dataframes_c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/08_queries_dataframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/10_iterando_dataframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/12_tratamento_de_dados.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/05_selecoes_com_dataframes.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/05_selecoes_com_dataframes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/08_queries_dataframes.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/08_queries_dataframes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.08_queries_dataframes">
+  <component name="RunManager" selected="Python.12_tratamento_de_dados">
     <configuration name="05_selecoes_com_dataframes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,48 +79,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_selecoes_com_dataframes_b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Formacao-Python-para-Data-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/05_selecoes_com_dataframes_b.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="05_selecoes_com_dataframes_c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Formacao-Python-para-Data-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/05_selecoes_com_dataframes_c.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="08_queries_dataframes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Formacao-Python-para-Data-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,6 +92,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/08_queries_dataframes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_iterando_dataframes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Formacao-Python-para-Data-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/10_iterando_dataframes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_tratamento_de_dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Formacao-Python-para-Data-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_para_data_science_funcoes_pacotes_pandas/aula05_pandas/12_tratamento_de_dados.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12_tratamento_de_dados" />
+        <item itemvalue="Python.10_iterando_dataframes" />
         <item itemvalue="Python.08_queries_dataframes" />
-        <item itemvalue="Python.212" />
-        <item itemvalue="Python.05_selecoes_com_dataframes_c" />
-        <item itemvalue="Python.05_selecoes_com_dataframes_b" />
         <item itemvalue="Python.05_selecoes_com_dataframes" />
+        <item itemvalue="Python.212" />
       </list>
     </recent_temporary>
   </component>
