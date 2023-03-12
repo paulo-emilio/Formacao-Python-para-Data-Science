@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="" />
+    <list default="true" id="3c3015de-fa39-4880-94f1-ec67430dfefe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/python_pandas_tratando_e_analisando_dados/aluguel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pandas_tratando_e_analisando_dados/aula01_conhecendo_jupyter/03_ambiente_virtual" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pandas_tratando_e_analisando_dados/aula02_importando_dados/02_importando_a_base" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_pandas_tratando_e_analisando_dados/extras.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +54,7 @@
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_pandas_tratando_e_analisando_dados" />
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_funcoes_pacotes_pandas" />
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_funcoes_pacotes_pandas\aula01_apresentacao_do_curso" />
       <recent name="C:\Users\paulo\OneDrive\Documentos\GitHub\Formacao-Python-para-Data-Science\python_para_data_science_linguagem_e_numpy" />

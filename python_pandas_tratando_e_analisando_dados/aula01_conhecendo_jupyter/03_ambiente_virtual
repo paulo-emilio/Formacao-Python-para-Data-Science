@@ -1,0 +1,18 @@
+Depois de intalar e configurar o Anaconda.
+Vamos criar o ambiente virtual:
+No prompt do Anaconda Navigator: conda create --name python_pandas_alura
+
+Ativando o ambiente:  conda activate python_pandas_alura
+import pandas
+Versão do pandas: pandas.__version__
+
+Saindo (desativando):
+conda deactivate
+
+Vizualizar os ambientes que possuo:
+conda info --envs
+
+Deletar o ambiente:
+conda remove --name python_pandas_alura --all
+
+
